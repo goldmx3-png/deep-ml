@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 3 problems · 0 labs · 2 math
+**7** solved · 3 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-11 | [solution](math/0009-matrix-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-11 | [solution](math/0007-vector-operations) |
+| [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-12 | [solution](math/0024-information-theory-entropy) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-12 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
 
