@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:12:33.136Z",
+  "generated_at": "2026-10-25T10:12:35.019Z",
   "items": {
     "problem:950": {
       "kind": "problem",
@@ -146,6 +146,54 @@
       "last_pushed_at": "2026-10-17T16:02:22.003Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-10-18T15:28:23.735Z",
+      "last_pushed_at": "2026-10-18T15:28:23.735Z",
+      "language": "python",
+      "lines": 23
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-18T15:38:05.277Z",
+      "last_pushed_at": "2026-10-18T15:38:05.277Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-18T16:26:54.918Z",
+      "last_pushed_at": "2026-10-18T16:26:54.918Z"
+    },
+    "problem:940": {
+      "kind": "problem",
+      "id": "940",
+      "title": "Regex-Based Text Tokenizer",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/940",
+      "path": "problems/0940-regex-based-text-tokenizer",
+      "first_solved_at": "2026-10-18T16:40:45.816Z",
+      "last_pushed_at": "2026-10-18T16:40:45.816Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
