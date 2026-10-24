@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:12:36.873Z",
+  "generated_at": "2026-10-25T10:12:38.692Z",
   "items": {
     "problem:950": {
       "kind": "problem",
@@ -220,6 +220,58 @@
       "last_pushed_at": "2026-10-19T17:04:21.862Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:943": {
+      "kind": "problem",
+      "id": "943",
+      "title": "Tokenizer with Unknown and End-of-Text Tokens",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/943",
+      "path": "problems/0943-tokenizer-with-unknown-and-end-of-text-tokens",
+      "first_solved_at": "2026-10-24T04:03:03.358Z",
+      "last_pushed_at": "2026-10-24T04:03:03.358Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:953": {
+      "kind": "problem",
+      "id": "953",
+      "title": "Calculate Vocabulary Size from Token List",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/953",
+      "path": "problems/0953-calculate-vocabulary-size-from-token-list",
+      "first_solved_at": "2026-10-24T04:20:14.899Z",
+      "last_pushed_at": "2026-10-24T04:20:14.899Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:948": {
+      "kind": "problem",
+      "id": "948",
+      "title": "Find Most Frequent Token Pair for BPE",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/948",
+      "path": "problems/0948-find-most-frequent-token-pair-for-bpe",
+      "first_solved_at": "2026-10-24T04:39:37.342Z",
+      "last_pushed_at": "2026-10-24T04:39:37.342Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:949": {
+      "kind": "problem",
+      "id": "949",
+      "title": "Replace Token Pair in BPE Sequences",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/949",
+      "path": "problems/0949-replace-token-pair-in-bpe-sequences",
+      "first_solved_at": "2026-10-24T05:21:25.954Z",
+      "last_pushed_at": "2026-10-24T05:21:25.954Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
