@@ -1,11 +1,11 @@
 def bpe_decode(ids, vocab):
-    text = ""
+    tokens = []
     for id in ids:
         if id in vocab:
             word = vocab[id]
-            # Fix 1: You must assign the result back to a variable!
-            if word[0] == 'G':  # Note: BPE usually uses 'Ġ' instead of 'G'
-                word = word.replace("G", " ", 1)
+            # If it starts with 'Ġ', replace it. If not, it safely changes nothing.
+            if word.startswith('G'):
+                word = word.replace('G', ' ', 1)
+            tokens.append(word)
             
-            text = text + word
-    return text
+    return "".join(tokens)
