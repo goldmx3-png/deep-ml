@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 15 problems · 0 labs · 7 math
+**23** solved · 15 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-24 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-24 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-17 | [solution](problems/0205-entropy-cross-entropy) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-10-25 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 
 ## Math
 

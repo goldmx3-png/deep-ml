@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:12:40.489Z",
+  "generated_at": "2026-10-25T10:20:42.901Z",
   "items": {
     "problem:950": {
       "kind": "problem",
@@ -272,6 +272,19 @@
       "last_pushed_at": "2026-10-24T05:21:25.954Z",
       "language": "python",
       "lines": 18
+    },
+    "lab:19": {
+      "kind": "lab",
+      "id": "19",
+      "title": "Build a Tokenizer for Language Modeling",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/labs/19",
+      "path": "labs/0019-build-a-tokenizer-for-language-modeling",
+      "first_solved_at": "2026-10-25T10:20:42.081Z",
+      "last_pushed_at": "2026-10-25T10:20:42.081Z",
+      "language": "python",
+      "lines": 182
     }
   }
 }
