@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 15 problems · 1 labs · 7 math
+**24** solved · 16 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-24 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-10-19 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-17 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-28 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-10-24 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-24 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-24 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
