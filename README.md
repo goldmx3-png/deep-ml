@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 17 problems · 1 labs · 7 math
+**26** solved · 18 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-18 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-24 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-17 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-29 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-24 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-17 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-18 | [solution](problems/0940-regex-based-text-tokenizer) |
