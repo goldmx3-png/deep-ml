@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 16 problems · 1 labs · 7 math
+**25** solved · 17 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-29 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
 | [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-10-24 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-10-19 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-18 | [solution](problems/0320-calculate-perplexity-for-language-models) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:25:37.552Z",
+  "generated_at": "2026-10-29T06:00:43.300Z",
   "items": {
     "problem:950": {
       "kind": "problem",
@@ -298,6 +298,19 @@
       "last_pushed_at": "2026-10-28T07:25:36.632Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:946": {
+      "kind": "problem",
+      "id": "946",
+      "title": "Add Positional Embeddings to Token Embeddings",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/946",
+      "path": "problems/0946-add-positional-embeddings-to-token-embeddings",
+      "first_solved_at": "2026-10-29T06:00:42.095Z",
+      "last_pushed_at": "2026-10-29T06:00:42.095Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
