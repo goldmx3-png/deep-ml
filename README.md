@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 19 problems · 1 labs · 7 math
+**28** solved · 20 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-30 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-29 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-24 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
+| [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-30 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-17 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-18 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-24 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
