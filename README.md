@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 21 problems · 1 labs · 7 math
+**30** solved · 22 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-24 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-30 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-17 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Pad and Truncate Tokenized Sequences](https://www.deep-ml.com/problems/1059) | easy | 2026-11-02 | [solution](problems/1059-pad-and-truncate-tokenized-sequences) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-18 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-24 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-10-19 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
