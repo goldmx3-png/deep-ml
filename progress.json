@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:58:26.650Z",
+  "generated_at": "2026-11-03T07:50:01.481Z",
   "items": {
     "problem:950": {
       "kind": "problem",
@@ -389,6 +389,19 @@
       "last_pushed_at": "2026-11-03T06:58:25.731Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:987": {
+      "kind": "problem",
+      "id": "987",
+      "title": "Laplace Smoothing for Bigram Probabilities",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/987",
+      "path": "problems/0987-laplace-smoothing-for-bigram-probabilities",
+      "first_solved_at": "2026-11-03T07:50:00.536Z",
+      "last_pushed_at": "2026-11-03T07:50:00.536Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
