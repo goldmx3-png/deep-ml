@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 29 problems · 1 labs · 10 math
+**41** solved · 30 problems · 1 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-29 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
+| [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-11-11 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-10-24 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
 | [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-11-03 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-10-19 | [solution](problems/0941-build-vocabulary-from-token-list) |
