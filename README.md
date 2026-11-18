@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 39 problems · 2 labs · 12 math
+**54** solved · 40 problems · 2 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-17 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-28 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-10-24 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-18 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-17 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-11-17 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-24 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
