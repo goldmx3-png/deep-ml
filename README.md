@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 38 problems · 1 labs · 12 math
+**52** solved · 38 problems · 2 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-10-25 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
+| [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-11-18 | [solution](labs/0010-design-your-own-attention-mechanism) |
 
 ## Math
 
