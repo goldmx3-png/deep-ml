@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:46:42.013Z",
+  "generated_at": "2026-11-21T06:58:53.543Z",
   "items": {
     "problem:950": {
       "kind": "problem",
@@ -748,6 +748,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-11-20T08:46:41.308Z",
       "last_pushed_at": "2026-11-20T08:46:41.308Z"
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-11-21T06:58:52.601Z",
+      "last_pushed_at": "2026-11-21T06:58:52.601Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

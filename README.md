@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 42 problems · 2 labs · 16 math
+**61** solved · 43 problems · 2 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-11-05 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-11-06 | [solution](problems/0991-sample-from-mlp-character-language-model) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-11-04 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-21 | [solution](problems/0094-implement-multi-head-attention) |
 
 ## Labs
 
